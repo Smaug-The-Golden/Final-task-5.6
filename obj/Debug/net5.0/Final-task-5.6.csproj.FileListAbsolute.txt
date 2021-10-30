@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.exe
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.deps.json
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.runtimeconfig.json
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.dll
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\ref\Final-task-5.6.dll
+C:\Users\Professional\source\repos\Final-task-5.6\bin\Debug\net5.0\Final-task-5.6.pdb
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.dll
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\ref\Final-task-5.6.dll
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.pdb
+C:\Users\Professional\source\repos\Final-task-5.6\obj\Debug\net5.0\Final-task-5.6.genruntimeconfig.cache
